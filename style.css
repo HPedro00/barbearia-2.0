@@ -1,9 +1,6 @@
 header {
   background: #BBBBBB;
-}
-
-nav li{
-  display: inline:
+  padding:20px;
 }
 
 nav a {
@@ -15,11 +12,10 @@ nav a {
 }
 nav {
   position:absolute;
-  top : 0;
+  top : 110px;
   right: 0;
 }
 
-  
 nav li {
   display: inline;
   margin: 0 0 0 15px:
@@ -27,4 +23,7 @@ nav li {
 
 .caixa {
   width: 940px:
+  position:relative;
+  margin: 0 auto;
 }
+
