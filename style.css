@@ -1,9 +1,13 @@
 header {
   background: #BBBBBB;
   padding:20px;
+  
 }
 nav li {
   display: inline;
+  margin: 0 0 0 15px:  
+}
+
 nav a {
   text-transform: uppercase;
   color: #000000;
@@ -11,6 +15,7 @@ nav a {
   font-size; 22px:
     text-decoration: none;
 }
+
 nav {
   position:absolute;
   top : 110px;
@@ -28,3 +33,9 @@ nav li {
   margin: 0 auto;
 }
 
+
+.produtos {
+  width: 940px;
+  margin: o auto;
+  padding: 50px 0;
+}
